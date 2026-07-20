@@ -10,8 +10,8 @@
 
 ### 🧭 About Me
 
-I'm a full-stack developer based in Turkey, currently finishing a B.Sc. in Management
-Information Systems. Over the past couple of years I've moved across the stack — backend
+I'm a full-stack developer based in Turkey, holding a B.Sc. in Management Information
+Systems. Over the past couple of years I've moved across the stack — backend
 microservices and AI/ML modules in production, real-time systems with WebRTC, multi-tenant
 SaaS platforms, and a self-run portfolio of React Native mobile apps shipped to the App Store.
 
