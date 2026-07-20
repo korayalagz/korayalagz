@@ -65,7 +65,7 @@ gimmick, but as a genuine part of my engineering process across every project be
 | Project | What it is | Stack |
 |---|---|---|
 | **[Pludix](https://github.com/korayalagz/pludix)** | Private, invite-only real-time communication platform (Discord-style) | NestJS · React · LiveKit (WebRTC) · Tauri |
-| **[Quex](./quex)** | Multi-platform project management workspace — Kanban + file boards | Next.js · Prisma · Supabase · Electron |
+| **[Quex](https://github.com/korayalagz/quex)** | Multi-platform project management workspace — Kanban + file boards | Next.js · Prisma · Supabase · Electron |
 | **Mobile App Portfolio** | Multiple React Native (Expo) apps in active development/TestFlight, with full CI/CD pipelines | React Native · RevenueCat · EAS Build |
 | **E-Commerce Backend Systems** | Independent microservices + ML modules (97% accuracy categorization) integrated into a production .NET platform | Node.js · .NET · Python |
 
